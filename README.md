@@ -20,12 +20,13 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Intermediate-blue.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />  
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 
-### Project Demo Link - [Click Here](https://car-price-prediction-9dgn.onrender.com/predict/)
-![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)  
+### Project Demo Link - [Click Here](https://www.google.com)
+
+![Real Estate Price Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project03-Real-Estate-Price-Prediction/predict/static/images/Real_Estate_Price_Prediction.png)
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
-**Algorithm Category:** Regression 
+**Algorithm Category:** Multivariate Linear Regression
 
 **Purpose:** Data Cleaning, Feature Engineering, Outlier Detection, Dimensionality Reduction, GridSearchCV
 
@@ -33,35 +34,32 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Package Usage:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata
 
-**Projects:** ABC Project Name  
+**Projects:** Real Estate Price Prediction
 
 **Problem Background Description**  
-In our dataset, Total amount of Monthly charges are around 16,056,169$ from that 18% of amount loss around 2862927% Due to the customer churn.
-Total number of customer around 7043 but 27% of people to be churn which around 1869 customer from the overall customer,
-So we need to predict the person who are all wants to be churn.Its very important to that company because they want new customer as well as retain the previous customer to stay in there company.
+Now with the lingering impact of demonetization, the enforcement of the Real Estate (Regulation and Development) Act (RERA), and the lack of trust in property developers in the city, housing units sold across India in 2017 dropped by 7 percent. In fact, the property prices in Bengaluru fell by almost 5 percent in the second half of 2017, said a study published by property consultancy Knight Frank.
 
 **Problem Task**  
-Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
+For example, for a potential homeowner, over 9,000 apartment projects and flats for sale are available in the range of ₹42-52 lakh, followed by over 7,100 apartments that are in the ₹52-62 lakh budget segment, says a report by property website Makaan. According to the study, there are over 5,000 projects in the ₹15-25 lakh budget segment followed by those in the ₹34-43 lakh budget category.
 
 **Reason For Task**  
-Customer churn is a common problem across businesses in many sectors. If you want to grow as a company, you have to invest in acquiring new clients. Every time a client leaves, it represents a significant investment lost. Both time and effort need to be channelled into replacing them. Being able to predict when a client is likely to leave, and offer them incentives to stay, can offer huge savings to a business.
+What are the things that a potential home buyer considers before purchasing a house? The location, the size of the property, vicinity to offices, schools, parks, restaurants, hospitals or the stereotypical white picket fence? What about the most important factor — the price?
 
 **Problem Variables**  
 There are two tables could be merged by ID
 
-| Field              | Description          | Unit      | dtype               | Comments        |
-| ------------------ | -------------------- | --------- | ------------------- | --------------- |
-| Table 1            | housing.csv          |           | Table Name          | ----------      |
-| Longitude          | Location             |           | Continuous          | ----------      |
-| Latitude           | Location             |           | Continuous          | ----------      |
-| Housing Median Age | Age                  |           | Continuous          | ----------      |
-| Total Rooms        | Total Living Area    |           | Continuous          | ----------      |
-| Total Bedrooms     | Bedroom Area Count   |           | Continuous          | ----------      |
-| Population         | Number of People     |           | Continuous          | ----------      |
-| Households         | Number of Households |           | Continuous          | ----------      |
-| Median Income      | Average Income       |           | Constant            | ----------      |
-| Median House Value | Average House Value  | US Dollar | Binary Category     | Traget Variable |
-| Ocean Proximity    | How Far Near Ocean   |           | Non Binary Category | ----------      |
+| Field        | Description              | Unit         | dtype           | Comments        |
+| ------------ | ------------------------ | ------------ | --------------- | --------------- |
+| Table 1      | Bengaluru_House_Data.csv |              | Table Name      | ----------      |
+| Area_Type    |                          |              | Continuous      | ----------      |
+| Availability |                          |              | Continuous      | ----------      |
+| Location     |                          |              | Continuous      | ----------      |
+| Size         |                          |              | Continuous      | ----------      |
+| Society      |                          |              | Continuous      | ----------      |
+| Total_Sqrt   | Total Square of House    |              | Binary Category | ----------      |
+| Bath         | Number of Bathroom       |              | Continuous      | ----------      |
+| Balcony      | Number of Balcony        |              | Constant        | ----------      |
+| Price        |                          | Local Dollar | Continuous      | Traget Variable |
 
 **Steps Involved in Model Development:**
 Data Analysis (EDA)  
