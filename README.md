@@ -22,7 +22,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 ### Project Demo Link - [Click Here](https://www.google.com)
 
-![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Section6.Project03-Real-Estate-Price-Prediction/predict/static/images/Real_Estate_Price_Prediction.png)
+![Real Estate Price Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project03-Real-Estate-Price-Prediction/predict/static/images/Real_Estate_Price_Prediction.png)
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
