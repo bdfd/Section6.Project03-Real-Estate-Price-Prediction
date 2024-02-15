@@ -42,18 +42,18 @@ What are the things that a potential home buyer considers before purchasing a ho
 **Problem Variables**  
 There are two tables could be merged by ID
 
-| Field        | Description              | Unit         | dtype           | Comments        |
-| ------------ | ------------------------ | ------------ | --------------- | --------------- |
-| Table 1      | Bengaluru_House_Data.csv |              | Table Name      | ----------      |
-| Area_Type    |                          |              | Continuous      | ----------      |
-| Availability |                          |              | Continuous      | ----------      |
-| Location     |                          |              | Continuous      | ----------      |
-| Size         |                          |              | Continuous      | ----------      |
-| Society      |                          |              | Continuous      | ----------      |
-| Total_Sqrt   | Total Square of House    |              | Binary Category | ----------      |
-| Bath         | Number of Bathroom       |              | Continuous      | ----------      |
-| Balcony      | Number of Balcony        |              | Constant        | ----------      |
-| Price        |                          | Local Dollar | Continuous      | Traget Variable |
+| Field        | Description              | Unit         | dtype      | Comments        |
+| ------------ | ------------------------ | ------------ | ---------- | --------------- |
+| Table 1      | Bengaluru_House_Data.csv |              | Table Name | ----------      |
+| Area_Type    |                          |              | Category   | ----------      |
+| Availability |                          |              | Category   | ----------      |
+| Location     |                          |              | Category   | ----------      |
+| Size         |                          |              | Category   | ----------      |
+| Society      |                          |              | Category   | ----------      |
+| Total_Sqrt   | Total Square of House    |              | Continuous | ----------      |
+| Bath         | Number of Bathroom       |              | Continuous | ----------      |
+| Balcony      | Number of Balcony        |              | Continuous | ----------      |
+| Price        |                          | Local Dollar | Continuous | Traget Variable |
 
 **Steps Involved in Model Development:**
 Data Analysis (EDA)  
