@@ -25,9 +25,9 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
-**Algorithm Category:** Regression, Classification
+**Algorithm Category:** Regression 
 
-**Purpose:** Data Cleaning, Apply Algorithm
+**Purpose:** Data Cleaning, Feature Engineering, Outlier Detection, Dimensionality Reduction, GridSearchCV
 
 **Algorithm:** Univariate Linear Regression, Multivariate Linear Regression
 
