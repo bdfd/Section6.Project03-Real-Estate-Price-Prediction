@@ -71,7 +71,7 @@ In this project, First you need to download dataset Bengaluru_House_Data.csv fro
 
 **Reference:**  
 Video Reference:<a href="https://www.youtube.com/watch?v=_drqJ9SFCgU&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=25"><Resource Name-Youtube> Youtube Video Reference</a>  
-Github Project Reference:<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction"><Resource Name-Youtube> Github Repo Reference</a>  
+Github Project Reference:<a href="https://github.com/codebasics/py/blob/master/DataScience/BangloreHomePrices/model/banglore_home_prices_final.ipynb"><Resource Name-Youtube> Github Repo Reference</a>  
 Resource Reference:<a href="https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?resource=download"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href=" ">Original Dataset.csv</a>  
 Dateset:<a href=" ">Processed Dataset.csv</a>  
