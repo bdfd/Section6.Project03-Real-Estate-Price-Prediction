@@ -73,16 +73,18 @@ In this project, First you need to download dataset Bengaluru_House_Data.csv fro
 Video Reference:<a href="https://www.youtube.com/watch?v=_drqJ9SFCgU&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=25"><Resource Name-Youtube> Youtube Video Reference</a>  
 Github Project Reference:<a href="https://github.com/codebasics/py/blob/master/DataScience/BangloreHomePrices/model/banglore_home_prices_final.ipynb"><Resource Name-Youtube> Github Repo Reference</a>  
 Resource Reference:<a href="https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?resource=download"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
-Dateset:<a href=" ">Original Dataset.csv</a>  
-Dateset:<a href=" ">Processed Dataset.csv</a>  
+Original Dateset:<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_Original_Data.csv">Original Dataset.csv</a>  
+Processed Dateset:<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_Preprocessed_Data.csv">Processed Dataset.csv</a>  
+Mugged Dateset:<a href="https://github.com/bdfd/Section6.Project02-Telco_Customer_Churning_Prediction/blob/main/1.0%20dataset/S602_Munged_Data.csv">Mugged Dataset.csv</a>  
 Train Processed Dataset:
-<a href=" ">Train_X.csv</a>,
-<a href=" ">Train_y.csv</a>  
+<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_X_train.csv">Train_X.csv</a>,
+<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_y_train.csv">Train_y.csv</a>  
 Test Processed Dataset:
-<a href=" ">Test_X.csv</a>,
-<a href=" ">Test_y.csv</a>  
-Demo:<a href=" ">Jupyter Notebook/Colab Link</a>  
-Visualization:<a href=" ">Train Result</a>,<a href=" ">Test Result</a>
+<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_X_test.csv">Test_X.csv</a>,
+<a href="https://github.com/bdfd/Section6.Project03-Real-Estate-Price-Prediction/blob/main/1.0%20dataset/S603_y_test.csv">Test_y.csv</a>  
+Demo:<a href=" ">Jupyter Notebook/Colab Link</a>
+
+<!-- Visualization:<a href=" ">Train Result</a>,<a href=" ">Test Result</a> -->
 <br>
 
 <div align="center">
